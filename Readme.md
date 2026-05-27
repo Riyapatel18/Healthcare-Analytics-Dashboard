@@ -100,8 +100,13 @@ The goal of this project is to help healthcare organizations make data-driven de
 ## 📷 Dashboard Pages
 
 - Hospital Summary Dashboard
+- <img width="1140" height="648" alt="image" src="https://github.com/user-attachments/assets/496e0d16-f0a5-4493-8e5e-46def3459450" />
+
 - Patient Summary Dashboard
+- <img width="1139" height="649" alt="image" src="https://github.com/user-attachments/assets/03380138-3e1d-449f-a34b-bde5cae9452e" />
+
 - Patient Details Dashboard
+<img width="1136" height="652" alt="image" src="https://github.com/user-attachments/assets/39f7d22a-49a9-4c00-8d74-e5399b3140bd" />
 
 ---
 
